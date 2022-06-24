@@ -1,0 +1,8 @@
+C:\Users\venuk\Documents\Practise Projects\QueuePractise\bin\Debug\QueuePractise.exe.config
+C:\Users\venuk\Documents\Practise Projects\QueuePractise\bin\Debug\QueuePractise.exe
+C:\Users\venuk\Documents\Practise Projects\QueuePractise\bin\Debug\QueuePractise.pdb
+C:\Users\venuk\Documents\Practise Projects\QueuePractise\obj\Debug\QueuePractise.csproj.AssemblyReference.cache
+C:\Users\venuk\Documents\Practise Projects\QueuePractise\obj\Debug\QueuePractise.csproj.SuggestedBindingRedirects.cache
+C:\Users\venuk\Documents\Practise Projects\QueuePractise\obj\Debug\QueuePractise.csproj.CoreCompileInputs.cache
+C:\Users\venuk\Documents\Practise Projects\QueuePractise\obj\Debug\QueuePractise.exe
+C:\Users\venuk\Documents\Practise Projects\QueuePractise\obj\Debug\QueuePractise.pdb
